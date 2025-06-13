@@ -11,12 +11,16 @@ function Technologies() {
     tailwind,
     bootstrap,
     sass,
+    Python,
+    django,
+    sql,
     vscode,
     git,
     github,
     npm,
     postman,
     figma,
+    Api,
   } = techStackDetails;
   return (
     <main className="container mx-auto max-width pt-10 pb-20 ">
@@ -37,6 +41,9 @@ function Technologies() {
         <img src={tailwind} title="Tailwind CSS" alt="" />
         <img src={bootstrap} title="Bootstrap" alt="" />
         <img src={sass} title="SASS" alt="" />
+        <img src={Python} title="Python" alt="" />
+        <img src={django} title="Django" alt="" />
+        <img src={sql} title="Sql" alt="" />
       </section>
       <section>
         <h1 className="text-2xl pt-10 text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
@@ -50,6 +57,7 @@ function Technologies() {
         <img src={figma} title="Figma" alt="Figma" />
         <img src={npm} title="NPM" alt="NPM" />
         <img src={postman} title="Postman" alt="Postman" />
+        <img src={Api} title="Api" alt="" />
       </section>
     </main>
   );
