@@ -56,6 +56,13 @@ export const socialMediaUrl = {
 // Enter your Work Experience here
 export const workDetails = [
   {
+    Position: "Gprs Operator",
+    Company: `Shanmugha groups`,
+    Location: "Erode",
+    Type: "Full Time",
+    Duration: "Oct 2024 - Present",
+  },
+  {
     Position: "Frontend Web Developer",
     Company: `SAOP IT Solutions`,
     Location: "Remote",
