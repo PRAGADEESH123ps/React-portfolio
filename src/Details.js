@@ -146,7 +146,7 @@ Designed with a clean and responsive UI, allowing users to search any city and v
     image: projectImage4,
     description: `A modern e-commerce shopping cart built with React, Redux for state management, and styled using Tailwind CSS. 
     Users can browse products, add/remove items from the cart, and view real-time cart updates with a responsive and seamless user experience.`,
-    techstack: "React/TailwindCss, FackApi",
+    techstack: "React/TailwindCss, FakeApi",
     previewLink: "https://shopping-cart-ten-ivory.vercel.app/",
     githubLink: "https://github.com/PRAGADEESH123ps/shopping-cart",
   },
